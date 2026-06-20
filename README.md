@@ -1,2 +1,27 @@
 # skillbridge-product-case-study
 AI-powered career navigation platform product case study
+# SkillBridge
+
+An AI-powered career navigation platform designed to help students identify skill gaps, follow personalized roadmaps, and become internship-ready.
+
+## Case Study
+
+[View Full Case Study](https://app.notion.com/p/Problem-Discovery-379fdb6d341480e89d43deb6f1ac7ef8?source=copy_link)
+
+## Prototype
+
+[View Figma Prototype](https://www.figma.com/proto/f23Nl7fZOQHR2AqJV95Ktg/SkillBridge-MVP-Prototype?node-id=1-2&starting-point-node-id=1%3A2&t=Jpfn8zp1BDdEqIwu-1)
+
+## Key Features
+
+- Career Goal Input
+- Skill Gap Analysis
+- Personalized Roadmap
+- Recommended Projects
+
+## Skills Used
+
+- User Research
+- Product Thinking
+- MVP Prioritization
+- Figma Prototyping
